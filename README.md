@@ -1,7 +1,7 @@
 # instagram-unfollowers
 A script for tracking Instagram unfollowers.
 
-Got to IG settings --> Privacy and Security --> Request Data Download --> select JSON --> copy followers.json and following.json and paste into local instagram-unfollowers folder
+Go to IG settings --> Privacy and Security --> Request Data Download --> select JSON --> copy followers.json and following.json and paste into local instagram-unfollowers folder
 
 In Terminal:
 1. cd instagram-unfollowers
