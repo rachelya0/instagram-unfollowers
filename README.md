@@ -1,10 +1,10 @@
 # instagram-unfollowers
 A script for tracking Instagram unfollowers.
 
-make local folder --> download unfollowers.py and move into local folder --> go to IG settings --> Privacy and Security --> Request Data Download --> select JSON --> copy followers.json and following.json and paste into local folder
+**make local folder --> download unfollowers.py and move into local folder --> go to IG settings --> Privacy and Security --> Request Data Download --> select JSON --> copy followers.json and following.json and paste into local folder**
 
 Make sure you have Python downloaded: https://www.python.org/downloads/
 
-In Terminal:
+**In Terminal:
 1. cd instagram-unfollowers
-2. python3 unfollowers.py
+2. python3 unfollowers.py**
