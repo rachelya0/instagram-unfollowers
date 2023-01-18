@@ -6,5 +6,5 @@ A simple script for tracking Instagram unfollowers.
 Make sure you have Python installed: https://www.python.org/downloads/
 
 In Terminal:
-1. cd instagram-unfollowers
+1. cd [local folder name]
 2. python3 unfollowers.py
