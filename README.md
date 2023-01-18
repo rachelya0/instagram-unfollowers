@@ -5,4 +5,4 @@ make local folder --> download unfollowers.py --> go to IG settings --> Privacy 
 
 In Terminal:
 1. cd instagram-unfollowers
-2. python3 unfollowers2.py
+2. python3 unfollowers.py
